@@ -8,8 +8,7 @@ It currently implements enumerating and hijacking VHs. However, adding one is st
 - Removing a VH by calling `RemoveVectoredExceptionHandler` on it's handle (TODO: implement removing them without API.)
 
 # Notes
-For a seamless experience without having to step through all exceptions manually, run the demo without having a debugger attached. <br/>
-This is how the unchanged demo output will look like: <br/>
+For a seamless experience without having to step through all exceptions manually, run the demo without having a debugger attached. This is how the unchanged demo output will look like: <br/>
 ![ ](demo1.png)
 
 # References
