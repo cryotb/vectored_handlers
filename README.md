@@ -1,6 +1,6 @@
 # Intro
 I wanted to create a demo project which interacts with vectored handlers on windows, and this is the outcome. <br/>
-It currently implements enumerating and hijacking VHs. However, adding one is still on my todo! It was simply not a priority due to the use case of this code. <br/>
+It currently implements enumerating and hijacking VHs. However, adding one is still on my todo! It was simply not a priority due to the background of why this was written. <br/>
 
 # Use Case Samples
 - Enumerating all registered VHs in a process and run checks on them, for example if they reside in a valid module.
