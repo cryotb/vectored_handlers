@@ -1,3 +1,6 @@
+# WARNING
+This seems to break on later windows 11 versions, meaning it's not really portable across different windows builds. This makes it pretty limited in usability, unless you can come up with a way to improve the dynamic lookup and hardcode any edge cases!  
+
 # Intro
 I wanted to create a demo project which interacts with vectored handlers on windows, and this is the outcome. <br/>
 It currently implements enumerating and hijacking VHs. However, adding one is still on my todo! It was simply not a priority due to the background of why this was written. <br/>
